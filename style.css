@@ -1,0 +1,96 @@
+h1   {
+    text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    margin: 30px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    font-size: 250%;
+}
+
+.gotchu {
+    text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    margin: 30px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    font-size: 150%;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Sedgwick Ave', cursive;
+    /* margin: 30px; */
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    /* font-size: 120%; */
+}
+
+.nameAndEmail   {
+    font-family: 'Sedgwick Ave', cursive;
+    /* margin: 30px; */
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    margin-left:20px;
+    font-size: 110%;
+}
+
+.wideness {
+    width: 500px;
+}
+
+
+
+.shadow {
+    background-color: rgba(80, 80, 90, 0.3);
+    border-radius: 30px;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.center   {
+    text-align: center;
+}
+
+input {
+	font-size:18px;
+	width: 100%;
+	background: #eaeaea;
+	box-sizing: border-box;
+	padding:13px 13px 13px 20px;
+	color: #2980b9;
+	border: rgba(0,0,0,0);
+}
+
+input:focus {
+	background: white;
+	border: 2px solid #2980b9;
+	outline: none;
+}
+
+ul  {
+    font-family: 'Sedgwick Ave', cursive;
+    /* margin: 30px; */
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    list-style-type:none;
+}
+
+button {
+	font-size:18px;
+	width: 100%;
+	color: #2980b9;
+	box-sizing: border-box;
+	padding:13px 13px 13px 20px;
+    background-color: #eaeaea;
+    /* background-color: #2980b9; */
+    border: rgba(0,0,0,0);
+    border-radius: 20px;
+}
+
+.white {
+    font-family: 'Sedgwick Ave', cursive;
+    /* margin: 30px; */
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    text-align:center;
+}
